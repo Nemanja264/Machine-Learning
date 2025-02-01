@@ -1,0 +1,19 @@
+import pandas as pd
+import numpy as np
+from sklearn.tree import DecisionTreeClassifier as DTC
+from sklearn.model_selection import train_test_split as tts
+from sklearn.metrics import accuracy_score
+
+music_data = pd.read_csv('music.csv')
+# splitting data training/test
+X = music_data.drop(columns=['genre']) # input
+y = music_data['genre'] # output
+X_train, X_test, y_train, y_test = tts(X,y, test_size = 0.2) # 20% of data for testing, randomly picked data for training and testing # returns tupple
+
+# decision tree ML algorithm
+model = DTC()
+model.fit(X_train, y_train) # input, output
+predictions = model.predict(X_test) # pd.DataFrame([[21, 1], [22, 0]], columns=X.columns) 2 input sets, 2 predictions to make
+
+score = accuracy_score(y_test, predictions) # y_test - expected values, predictions - actual values # accuracy score 0-1
+score
