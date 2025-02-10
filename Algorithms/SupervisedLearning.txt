@@ -3,6 +3,11 @@ Has infinite number of outputs
 1) Linear Regression
   Use:
     Predicts continuous outcomes (e.g., house prices, salary, stock prices).
+  Cost function: J(w,b) = 1/2m * sum((Y(i)-y(i))^2) // sum(m), i=1
+
+  Goal of Linear Regression: minimize J(w), J(w)=wx, to find the cost function that fits the training data the best (by finding values for w that does it)
+  General case: find minimizeJ(w,b)
+  The height of line in x,y graph is actually the value of b and the angle of it is w
 
 2) Logistic Regression
   Use:
@@ -11,7 +16,7 @@ Has infinite number of outputs
     Binary Logistic Regression: Two classes (e.g., yes/no).
     Multinomial Logistic Regression: More than two classes.
 
-3)  Decision Trees
+3)  Decision Trees 
   Use:
     Provides interpretable models for decision-making.
     Used in both classification (e.g., credit scoring, customer segmentation) and regression (predicting continuous values).
