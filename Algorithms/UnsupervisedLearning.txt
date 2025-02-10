@@ -7,3 +7,8 @@
     Recommendation engines, Anomaly detection, Customer segmentation, Natural language processing (NLP),
     Genetic research, Fraud detection (revealing fraudulent transactions or unusual behavior like bot acitvity)
     
+2) Anomaly detection
+  Find unusual data points
+
+3) Dimensionality reduction
+  Compress data using fewer numbers
