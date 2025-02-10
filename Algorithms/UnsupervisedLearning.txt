@@ -1,0 +1,9 @@
+1) Clustering
+  Clustering is a technique for exploring raw, unlabeled data and breaking it down into groups (or clusters) based on similarities or differences.
+  It is used in a variety of applications, including customer segmentation, fraud detection, and image analysis.
+  Clustering algorithms split data into natural groups by finding similar structures or patterns in uncategorized data.
+
+  Here are some real-world unsupervised learning examples:
+    Recommendation engines, Anomaly detection, Customer segmentation, Natural language processing (NLP),
+    Genetic research, Fraud detection (revealing fraudulent transactions or unusual behavior like bot acitvity)
+    
