@@ -1,3 +1,5 @@
+Has infinite number of outputs
+
 1) Linear Regression
   Use:
     Predicts continuous outcomes (e.g., house prices, salary, stock prices).
