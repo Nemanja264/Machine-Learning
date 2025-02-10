@@ -1,3 +1,5 @@
+Has small number of outputs
+
 1) Clustering
   Clustering is a technique for exploring raw, unlabeled data and breaking it down into groups (or clusters) based on similarities or differences.
   It is used in a variety of applications, including customer segmentation, fraud detection, and image analysis.
