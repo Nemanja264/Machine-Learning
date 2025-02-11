@@ -13,7 +13,6 @@ Has infinite number of outputs
   **&alpha; - learning rate**, the size of the steps that are taken to reach the minimum
   ![Alt Text](https://github.com/Nemanja264/Machine-Learning/blob/main/Algorithms/SupervisedLearning/Screenshot%202025-02-11%20005832.png?raw=true)
 
-  ![Alt Text](https://github.com/Nemanja264/Machine-Learning/blob/main/Algorithms/SupervisedLearning/Screenshot%202025-02-11%20012431.png?raw=true)
   ![](Screenshot%202025-02-11%20012431.png){height=50px}
 
 **2) Logistic Regression**  
