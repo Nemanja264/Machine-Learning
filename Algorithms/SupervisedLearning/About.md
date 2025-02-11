@@ -11,10 +11,9 @@ Has infinite number of outputs
   The height of line in x,y graph is actually the value of b and the angle of it is w
 
   **&alpha; - learning rate**, the size of the steps that are taken to reach the minimum
-  ![Alt Text](https://github.com/Nemanja264/Machine-Learning/blob/main/Algorithms/SupervisedLearning/Screenshot%202025-02-11%20005832.png?raw=true)  
-
-
-  <img src="Screenshot%202025-02-11%20012431.png" height="100">
+    <img src="Screenshot%202025-02-11%20005832.png" height="300">
+    
+    <img src="Screenshot%202025-02-11%20012431.png" height="300">
 
 **2) Logistic Regression**  
   **Use:**  
