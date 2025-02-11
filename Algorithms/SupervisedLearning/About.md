@@ -19,8 +19,7 @@ Has infinite number of outputs
 
 <img src="Screenshot%202025-02-11%20013128.png" height="300">  
 
-**Multiple inputs variables**  
-
+**Multiple inputs variables**:   
 Some ML libraries use ***normal equation*** in back-end to solve (w,b) vectorization - ***interview question***  
 <img src="Screenshot%202025-02-11%20160317.png" height="300">  
    
