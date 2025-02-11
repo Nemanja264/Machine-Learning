@@ -33,7 +33,7 @@ Some ML libraries use ***normal equation*** in back-end to solve (w,b) vectoriza
 **3) Decision Trees**  
   **Use:**  
     Provides interpretable models for decision-making.  
-    Used in both classification (e.g., credit scoring, customer segmentation) and regression (predicting continuous values).
+    Used in both classification (e.g., credit scoring, customer segmentation) and regression (predicting continuous values).  
 
   Supervised Learning Algorithm that splits data into branches based on feature values.
   Variations:
@@ -44,20 +44,20 @@ Some ML libraries use ***normal equation*** in back-end to solve (w,b) vectoriza
 **Use:**  
     Finds the optimal boundary (hyperplane) to separate classes; also used for regression (SVR - Support Vector Regression).
 
-  Supervised Learning Algorithm mainly for classification.
-  Variations:
-    Linear SVM: For linearly separable data.
-    Non-Linear SVM: Uses kernel functions (e.g., RBF, polynomial) for data that isn’t linearly separable.
+  Supervised Learning Algorithm mainly for classification.  
+  Variations:  
+    Linear SVM: For linearly separable data.  
+    Non-Linear SVM: Uses kernel functions (e.g., RBF, polynomial) for data that isn’t linearly separable.  
     SVR: The regression variant of SVM.
 
   SVC (Support Vector Classifier)
-    Purpose: A type of Support Vector Machine (SVM) used for classification tasks.
-    Core Idea: Finds the optimal hyperplane that maximizes the margin between classes.
-    Ideal For: Small to medium-sized and high-dimensional datasets.
+    Purpose: A type of Support Vector Machine (SVM) used for classification tasks.  
+    Core Idea: Finds the optimal hyperplane that maximizes the margin between classes.  
+    Ideal For: Small to medium-sized and high-dimensional datasets.  
 
     Key Hyperparameters:
-      C: Regularization parameter balancing margin size and classification errors.
-        C determines how many data samples are allowed to be placed in different classes
+      C: Regularization parameter balancing margin size and classification errors.  
+        C determines how many data samples are allowed to be placed in different classes  
 
       Kernel Function: a method used to take data as input and transform it into the required form of processing data.(Linear, Polynomial, Radial Basis Function(RBF), Gaussian...)
           RBF: /*It maps the data into an infinite-dimensional*/. We use RBF kernel When the decision boundary is highly non-linear and we have no prior knowledge about the data’s structure is available.
