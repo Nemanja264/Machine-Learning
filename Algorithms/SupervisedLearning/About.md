@@ -22,6 +22,8 @@ Has infinite number of outputs
 **Multiple inputs variables**:   
 Some ML libraries use ***normal equation*** in back-end to solve (w,b) vectorization - ***interview question***  
 <img src="Screenshot%202025-02-11%20160930.png" height="300">  
+
+**Feature scaling** - when features have very different range its better to rescale them in 0-1 for better search for local minimum
    
 **2) Logistic Regression**  
   **Use:**  
