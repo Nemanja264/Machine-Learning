@@ -23,8 +23,11 @@ Has infinite number of outputs
 Some ML libraries use ***normal equation*** in back-end to solve (w,b) vectorization - ***interview question***  
 <img src="Screenshot%202025-02-11%20160930.png" height="300">  
 
+**Rescaling:**
 **Feature scaling** - when features have very different range its better to rescale them in 0-1 for better search for local minimum
-   
+*Mean normalization*  
+*Z-score normalization*  
+  
 **2) Logistic Regression**  
   **Use:**  
     Classifies data into two or more categories (e.g., spam detection, customer churn, medical diagnosis).
