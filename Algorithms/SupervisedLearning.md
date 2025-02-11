@@ -3,10 +3,11 @@ Has infinite number of outputs
 1) Linear Regression
   Use:
     Predicts continuous outcomes (e.g., house prices, salary, stock prices).
+   
   Cost function: J(w,b) = 1/2m * sum((Y(i)-y(i))^2) // sum(m), i=1
-
   Goal of Linear Regression: minimize J(w), J(w)=wx, to find the cost function that fits the training data the best (by finding values for w that does it)
   General case: find minimizeJ(w,b)
+  
   The height of line in x,y graph is actually the value of b and the angle of it is w
   ![Alt Text](https://github.com/Nemanja264/Machine-Learning/blob/main/Algorithms/Screenshot%202025-02-11%20005832.png?raw=true)
 
