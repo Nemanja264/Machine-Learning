@@ -13,7 +13,7 @@ Has infinite number of outputs
   **&alpha; - learning rate**, the size of the steps that are taken to reach the minimum
     <img src="Screenshot%202025-02-11%20005832.png" height="300">
     
-    <img src="Screenshot%202025-02-11%20012431.png" height="300">
+   <img src="Screenshot%202025-02-11%20012431.png" height="300"> 
 
 **2) Logistic Regression**  
   **Use:**  
