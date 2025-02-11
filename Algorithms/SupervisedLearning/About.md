@@ -11,7 +11,8 @@ Has infinite number of outputs
   The height of line in x,y graph is actually the value of b and the angle of it is w
   In **squared error cost function** there is no mulitple local minimums, only one thats **global minimum**
 
-***Gradient Decent***  
+***Gradient Decent*** 
+
 *multiple local minimums*  
 **&alpha; - learning rate**, the size of the steps that are taken to reach the minimum
 <img src="Screenshot%202025-02-11%20005832.png" height="300">
