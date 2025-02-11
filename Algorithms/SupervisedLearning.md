@@ -1,7 +1,7 @@
 Has infinite number of outputs
 
 **1) Linear Regression**  
-**Use:**
+**Use:**  
     Predicts continuous outcomes (e.g., house prices, salary, stock prices).
    
   **Cost function: J(w,b) = 1/2m * sum((Y(i)-y(i))^2)** // sum(m), i=1  
