@@ -1,6 +1,6 @@
 Has infinite number of outputs
 
-<u>1) Linear Regression<u>
+**1) Linear Regression**
   Use:
     Predicts continuous outcomes (e.g., house prices, salary, stock prices).
    
@@ -11,14 +11,14 @@ Has infinite number of outputs
   The height of line in x,y graph is actually the value of b and the angle of it is w
   ![Alt Text](https://github.com/Nemanja264/Machine-Learning/blob/main/Algorithms/Screenshot%202025-02-11%20005832.png?raw=true)
 
-<u>2) Logistic Regression<u>
+**2) Logistic Regression**
   Use:
     Classifies data into two or more categories (e.g., spam detection, customer churn, medical diagnosis).
   Variations:
     Binary Logistic Regression: Two classes (e.g., yes/no).
     Multinomial Logistic Regression: More than two classes.
 
-<u>3) Decision Trees <u>
+**3) Decision Trees**
   Use:
     Provides interpretable models for decision-making.
     Used in both classification (e.g., credit scoring, customer segmentation) and regression (predicting continuous values).
@@ -28,7 +28,7 @@ Has infinite number of outputs
     Classification Trees for categorical outcomes.
     Regression Trees for continuous outcomes.
 
-<u>4) Support Vector Machines (SVM)<u>
+**4) Support Vector Machines (SVM)**
   Use:
     Finds the optimal boundary (hyperplane) to separate classes; also used for regression (SVR - Support Vector Regression).
 
