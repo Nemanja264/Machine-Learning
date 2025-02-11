@@ -27,12 +27,12 @@ Some ML libraries use ***normal equation*** in back-end to solve (w,b) vectoriza
   **Use:**  
     Classifies data into two or more categories (e.g., spam detection, customer churn, medical diagnosis).
   Variations:
-    Binary Logistic Regression: Two classes (e.g., yes/no).
+    Binary Logistic Regression: Two classes (e.g., yes/no).  
     Multinomial Logistic Regression: More than two classes.
 
 **3) Decision Trees**  
   **Use:**  
-    Provides interpretable models for decision-making.
+    Provides interpretable models for decision-making.  
     Used in both classification (e.g., credit scoring, customer segmentation) and regression (predicting continuous values).
 
   Supervised Learning Algorithm that splits data into branches based on feature values.
