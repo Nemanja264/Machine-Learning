@@ -14,7 +14,7 @@ Has infinite number of outputs
   ![Alt Text](https://github.com/Nemanja264/Machine-Learning/blob/main/Algorithms/SupervisedLearning/Screenshot%202025-02-11%20005832.png?raw=true)  
 
 
-  <img src="Screenshot%202025-02-11%20012431.png" height="20">
+  <img src="Screenshot%202025-02-11%20012431.png" height="100">
 
 **2) Logistic Regression**  
   **Use:**  
