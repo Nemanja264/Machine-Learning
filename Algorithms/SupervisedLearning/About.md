@@ -18,6 +18,10 @@ Has infinite number of outputs
 <img src="Screenshot%202025-02-11%20005832.png" height="300">
 
 <img src="Screenshot%202025-02-11%20013128.png" height="300">  
+
+**Multiple inputs variables**
+
+<img src="Screenshot%202025-02-11%20160317.png" height="300">  
    
 **2) Logistic Regression**  
   **Use:**  
