@@ -28,12 +28,6 @@ Some ML libraries use ***normal equation*** in back-end to solve (w,b) vectoriza
 *Mean normalization*  
 *Z-score normalization*  
   
-**2) Logistic Regression**  
-  **Use:**  
-    Classifies data into two or more categories (e.g., spam detection, customer churn, medical diagnosis).
-  Variations:
-    Binary Logistic Regression: Two classes (e.g., yes/no).  
-    Multinomial Logistic Regression: More than two classes.
 
 **3) Decision Trees**  
   **Use:**  
