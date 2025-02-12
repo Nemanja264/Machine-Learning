@@ -17,7 +17,7 @@ Has infinite number of outputs
 **&alpha; - learning rate**, the size of the steps that are taken to reach the minimum
 <img src="Screenshot%202025-02-11%20005832.png" height="300">
 
-<img src="Screenshot%202025-02-11%20013128.png" height="300">  
+<img src="Pictures/Screenshot%202025-02-11%20013128.png" height="300">  
 
 **Multiple inputs variables**:   
 Some ML libraries use ***normal equation*** in back-end to solve (w,b) vectorization - ***interview question***  
