@@ -1,6 +1,6 @@
-In machine learning, a learning curve is a plot that shows how a model’s performance changes as it is exposed to more training data (or, in some cases, more training iterations). By examining learning curves, you can diagnose whether your model is:  
-**Underfitting (high bias)**
-**Overfitting (high variance)**
+In machine learning, a **learning curve** is a plot that shows how a model’s performance changes as it is exposed to more training data (or, in some cases, more training iterations). By examining learning curves, you can diagnose whether your model is:  
+**Underfitting (high bias)**  
+**Overfitting (high variance)**  
 **Well-balanced**  
   
 
