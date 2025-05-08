@@ -1,7 +1,8 @@
-Thought for a few seconds
-
-
-Here’s a concise summary of the three scenarios in one table:
+In machine learning, a learning curve is a plot that shows how a model’s performance changes as it is exposed to more training data (or, in some cases, more training iterations). By examining learning curves, you can diagnose whether your model is:  
+**Underfitting (high bias)**
+**Overfitting (high variance)**
+**Well-balanced**  
+  
 
 | Scenario         | Training Error    | Validation Error | Train-Val Gap | Behavior as Data ↑             | Typical Fixes                                          |
 | ---------------- | ----------------- | ---------------- | ------------- | ------------------------------ | ------------------------------------------------------ |
